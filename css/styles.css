@@ -744,7 +744,6 @@ img {
   font-size: 12px;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.48px;
-  display: flex;
   align-items: center;
 }
 
