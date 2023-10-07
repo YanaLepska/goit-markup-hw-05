@@ -656,6 +656,10 @@ img {
   margin-bottom: 8px;
 }
 
+.modal-form-comment {
+  margin-bottom: 16px;
+}
+
 .modal-form-btn {
   color: #fff;
   text-align: center;
@@ -758,7 +762,6 @@ img {
   margin-right: 8px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
-  display: flex;
   justify-content: center;
   align-items: center;
   fill: transparent;
